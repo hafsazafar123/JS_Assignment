@@ -1,0 +1,74 @@
+.space{
+    display: flex;
+    width: 20px;
+}
+#year1{
+    padding-left: 220px;
+    padding-right: 225px;
+}
+.gap{
+    display: flex;
+    border: solid darkgrey;
+    margin-block: 20px;
+    border-right: none;
+    border-left: none;
+    border-width: 1px;
+    width: 760px;
+    font-size: 10px;
+}
+    
+
+#movie{
+    padding-left: 150px;
+    color: darkgray;
+}
+#year2{
+    padding-left: 520px;
+    color: darkgray;
+}
+#rank{
+    padding-left: 10px;
+    color: darkgray;
+}
+.final{
+    padding-top: 70px;
+    padding-left: 200px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 10px;
+}
+.finish{
+    margin-left: 25px;
+}
+#select1{
+    width: 250px;
+    height: 25px;
+}
+#rating{
+    width: 760px;
+    height: 25px;
+}
+#select2{
+    width: 250px;
+    height: 25px;
+}
+#select3{
+    width: 250px;
+    height: 25px;
+}
+.dataDisplay{
+    display: flex;
+}
+#movieDisplay{
+    padding-left: 120px;
+    line-height: 20px;
+    list-style-type: none;
+}
+#yearDisplay{
+    padding-left: 150px;
+    list-style-type: none;
+    line-height: 20px;
+}
+#increment{
+    list-style-type: none;
+    line-height: 20px;
+}
